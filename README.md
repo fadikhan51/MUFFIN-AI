@@ -1,4 +1,5 @@
-# AI Assistant App Readme
+# MUFFIN AI 
+AI CHATBOT | TEXT TO IMAGE GENERATION | LANGUAGE TRANSLATION | FLUTTER | DART
 
 ## Features
 - MUFFIN Ai (Google Gemini ChatBot)
