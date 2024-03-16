@@ -1,22 +1,32 @@
-
 <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Assistant App Readme</title>
+</head>
+
 <body>
-    <h1>AI Assistant App</h1>
+    <h1>AI Assistant App Readme</h1>
 
-    <p>This is an AI Assistant app built with Flutter that incorporates various AI features including a chatbot, text-to-image generation, and language translation. The app utilizes different APIs and services for each feature to provide a comprehensive AI experience.</p>
-
-    <h2>Features</h2>
+    <h2>Features:</h2>
     <ul>
-        <li><strong>AI Chatbot:</strong> A conversational chatbot powered by Google Gemini that can handle text and image queries.</li>
-        <li><strong>Text to Image Generation:</strong> Generate images from text inputs using the Geimg.ai API.</li>
-        <li><strong>Language Translation:</strong> Translate text between various languages using the Google Translator API with auto-detection of the input language.</li>
-        <li><strong>Custom Light/Dark Mode:</strong> Provides a customizable interface with light and dark mode options.</li>
-        <li><strong>First Time Onboarding:</strong> Introduce users to the app with onboarding screens.</li>
-        <li><strong>Animations:</strong> Incorporates various animations including text animation, Lottie animations, fading effects, etc.</li>
-        <li><strong>App Write Cloud Integration:</strong> Utilizes App Write for cloud storage and other backend functionalities.</li>
+        <li>Ai Chatbot</li>
+        <li>Facebook Ads Integration (For Sample)</li>
+        <li>Ai Image Creator/Generator (with GPT + Lexica Image Search)</li>
+        <li>Ai Multi Language Translator (with GPT + Google Translator)</li>
+        <li>Uses Google Gemini</li>
+        <li>Custom Light/Dark Mode</li>
+        <li>First Time Onboarding or Introduction Screens</li>
+        <li>Animations (Text Animation, Lottie, Fading, etc)</li>
+        <li>Decent UI with New Material Widgets</li>
+        <li>App Write Cloud Integration</li>
+        <li>And Much More...</li>
     </ul>
 
-    <h2>Dependencies</h2>
+    <h2>App Dependencies:</h2>
     <pre>
 lottie: ^2.7.0
 hive: ^2.2.3
@@ -37,27 +47,17 @@ dash_chat_2: ^0.0.20
 mockito: ^5.4.4
     </pre>
 
-    <h2>Usage</h2>
+    <h2>Sections:</h2>
     <ol>
-        <li>Clone the repository:</li>
-        <pre>
-git clone https://github.com/your-username/your-repository.git
-        </pre>
-        <li>Navigate to the project directory:</li>
-        <pre>
-cd your-repository
-        </pre>
-        <li>Install dependencies:</li>
-        <pre>
-flutter pub get
-        </pre>
-        <li>Run the app:</li>
-        <pre>
-flutter run
-        </pre>
+        <li>AI ChatBot with Google Gemini for text and image queries.</li>
+        <li>Text to Image Generation with sharing and saving features.</li>
+        <li>Language Translation supporting multiple languages and autodetection.</li>
     </ol>
 
-    <h2>Contributing</h2>
-    <p>Contributions are welcome! Please feel free to open an issue or submit a pull request for any bugs fixes, improvements, or new features you'd like to add.</p>
+    <h2>Future Benefits:</h2>
+    <p>This AI Assistant app provides a convenient platform for AI interactions, image generation, and language translation, enhancing user experience and simplifying tasks through automation. It can benefit users by improving communication across languages, offering advanced AI features in one app, and staying updated with the latest technologies.</p>
+
+    <p>Feel free to customize this readme.md file for your GitHub repository to showcase the features and benefits of your AI Assistant app!</p>
 </body>
+
 </html>
