@@ -1,22 +1,20 @@
-    <h1>AI Assistant App Readme</h1>
+# AI Assistant App Readme
 
-    <h2>Features:</h2>
-    <ul>
-        <li>Ai Chatbot</li>
-        <li>Facebook Ads Integration (For Sample)</li>
-        <li>Ai Image Creator/Generator (with GPT + Lexica Image Search)</li>
-        <li>Ai Multi Language Translator (with GPT + Google Translator)</li>
-        <li>Uses Google Gemini</li>
-        <li>Custom Light/Dark Mode</li>
-        <li>First Time Onboarding or Introduction Screens</li>
-        <li>Animations (Text Animation, Lottie, Fading, etc)</li>
-        <li>Decent UI with New Material Widgets</li>
-        <li>App Write Cloud Integration</li>
-        <li>And Much More...</li>
-    </ul>
+## Features
+- Ai Chatbot
+- Facebook Ads Integration (For Sample)
+- Ai Image Creator/Generator (with GPT + Lexica Image Search)
+- Ai Multi Language Translator (with GPT + Google Translator)
+- Uses Google Gemini
+- Custom Light/Dark Mode
+- First Time Onboarding or Introduction Screens
+- Animations (Text Animation, Lottie, Fading, etc)
+- Decent UI with New Material Widgets
+- App Write Cloud Integration
+- And Much More...
 
-    <h2>App Dependencies:</h2>
-    <code>
+## App Dependencies
+```yaml
 lottie: ^2.7.0
 hive: ^2.2.3
 hive_flutter: ^1.1.0
@@ -34,17 +32,16 @@ mime: ^1.0.5
 image_picker: ^1.0.7
 dash_chat_2: ^0.0.20
 mockito: ^5.4.4
-    </code>
+```
 
-    <h2>Sections:</h2>
-    <ol>
-        <li>AI ChatBot with Google Gemini for text and image queries.</li>
-        <li>Text to Image Generation with sharing and saving features.</li>
-        <li>Language Translation supporting multiple languages and autodetection.</li>
-    </ol>
+## Sections
+1. AI ChatBot with Google Gemini for text and image queries.
+2. Text to Image Generation using geimg.ai with sharing and saving features.
+3. Language Translation with Google Translator supporting multiple languages and autodetection.
 
-    <h2>Future Benefits:</h2>
-    <p>This AI Assistant app provides a convenient platform for AI interactions, image generation, and language translation, enhancing user experience and simplifying tasks through automation. It can benefit users by improving communication across languages, offering advanced AI features in one app, and staying updated with the latest technologies.</p>
+## Future Benefits
+This AI Assistant app provides a comprehensive solution for AI interactions, image generation, and language translation in one platform, offering convenient access to various AI features. It can prove beneficial in enhancing user experience, improving communication across languages, simplifying tasks through automation, and staying updated with the latest AI technologies.
 
-    <p>Feel free to customize this readme.md file for your GitHub repository to showcase the features and benefits of your AI Assistant app!</p>
+---
 
+Feel free to customize the readme.md file further for your GitHub repository. Let me know if you need any more assistance!
