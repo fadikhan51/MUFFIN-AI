@@ -1,13 +1,13 @@
 # AI Assistant App Readme
 
 ## Features
-- Ai Chatbot
-- Facebook Ads Integration (For Sample)
-- Ai Image Creator/Generator (with GPT + Lexica Image Search)
+- MUFFIN Ai (Google Gemini ChatBot)
+- Ai Image Creator/Generator (Getimg.ai)
 - Ai Multi Language Translator (with GPT + Google Translator)
 - Uses Google Gemini
 - Custom Light/Dark Mode
 - First Time Onboarding or Introduction Screens
+- Dashchat Flutter Package
 - Animations (Text Animation, Lottie, Fading, etc)
 - Decent UI with New Material Widgets
 - App Write Cloud Integration
