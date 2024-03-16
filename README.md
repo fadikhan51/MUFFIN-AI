@@ -1,5 +1,4 @@
-# MUFFIN-AI
-AI ChatBot | Text to Image Generation | Language Translation | Flutter | Dart |
+
 <!DOCTYPE html>
 <body>
     <h1>AI Assistant App</h1>
