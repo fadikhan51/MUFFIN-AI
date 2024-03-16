@@ -60,8 +60,5 @@ flutter run
 
     <h2>Contributing</h2>
     <p>Contributions are welcome! Please feel free to open an issue or submit a pull request for any bugs fixes, improvements, or new features you'd like to add.</p>
-
-    <h2>License</h2>
-    <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 </body>
 </html>
