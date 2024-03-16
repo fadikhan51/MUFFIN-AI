@@ -7,4 +7,4 @@ const appName = 'Ai Assistant';
 late Size mq;
 
 //chat gpt api key (Update it)
-String apiKey = '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';
+String apiKey = 'YOUR OWN API KEY';

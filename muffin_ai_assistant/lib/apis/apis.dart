@@ -19,8 +19,7 @@ class APIs {
               //headers
               headers: {
                 HttpHeaders.contentTypeHeader: 'application/json',
-                HttpHeaders.authorizationHeader:
-                    'Bearer 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'
+                HttpHeaders.authorizationHeader: 'Bearer YOUR OWN API KEY'
               },
 
               //body
@@ -46,14 +45,13 @@ class APIs {
   static Future<List<String>> searchAiImages(String prompt) async {
     final headers = {
       'accept': 'application/json',
-      'authorization': 'Bearer key-1SzFv3T4hknQGGTfEnS8twOx7hPxF6VvBrdyudRiEOrnoShTskyj9Yn6x11Ot4XcAq40QfWCIV1k3aBaHIJIW5mF8GV2p6fq',
+      'authorization':
+          'Bearer key-1SzFv3T4hknQGGTfEnS8twOx7hPxF6VvBrdyudRiEOrnoShTskyj9Yn6x11Ot4XcAq40QfWCIV1k3aBaHIJIW5mF8GV2p6fq',
       'content-type': 'application/json'
     };
 
     try {
-      final data1 = {
-        'prompt': prompt
-      };
+      final data1 = {'prompt': prompt};
       final res = await http.post(
         Uri.parse('https://api.getimg.ai/v1/essential/text-to-image'),
         headers: headers,
