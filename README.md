@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<body>
     <h1>AI Assistant App Readme</h1>
 
     <h2>Features:</h2>
@@ -49,6 +47,4 @@ mockito: ^5.4.4
     <p>This AI Assistant app provides a convenient platform for AI interactions, image generation, and language translation, enhancing user experience and simplifying tasks through automation. It can benefit users by improving communication across languages, offering advanced AI features in one app, and staying updated with the latest technologies.</p>
 
     <p>Feel free to customize this readme.md file for your GitHub repository to showcase the features and benefits of your AI Assistant app!</p>
-</body>
 
-</html>
