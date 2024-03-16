@@ -45,8 +45,7 @@ class APIs {
   static Future<List<String>> searchAiImages(String prompt) async {
     final headers = {
       'accept': 'application/json',
-      'authorization':
-          'Bearer key-1SzFv3T4hknQGGTfEnS8twOx7hPxF6VvBrdyudRiEOrnoShTskyj9Yn6x11Ot4XcAq40QfWCIV1k3aBaHIJIW5mF8GV2p6fq',
+      'authorization': 'Bearer YOUR OWN API KEY',
       'content-type': 'application/json'
     };
 
