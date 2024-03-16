@@ -16,7 +16,7 @@
     </ul>
 
     <h2>App Dependencies:</h2>
-    <pre>
+    <code>
 lottie: ^2.7.0
 hive: ^2.2.3
 hive_flutter: ^1.1.0
@@ -34,7 +34,7 @@ mime: ^1.0.5
 image_picker: ^1.0.7
 dash_chat_2: ^0.0.20
 mockito: ^5.4.4
-    </pre>
+    </code>
 
     <h2>Sections:</h2>
     <ol>
